@@ -1,12 +1,12 @@
 # Array With Non-Primitive Data Type
 
 ### Objective
-In this project, we will explore the use of arrays with non-primitive data types to store and manipulate multiple instances of a class.
+In this project, we will explore using arrays with non-primitive data types to store and manipulate multiple instances of a class.
 ### Problem
-Create an array of objects to store books information using the [Book](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp/blob/main/data-structures-and-algorithms-101/02-data-structures/01-arrays/projects/introduction-to-arrays/array-with-non-primitive-data-type/Book.java) class.
+Create an array of objects to store books information using the [Book](./src/Book.java) class.
 
 ### Implementation
-Create three objects from the [`Book`](https://github.com/SAFCSP-Team/data-structures-and-algorithms-bootcamp/blob/main/data-structures-and-algorithms-101/02-data-structures/01-arrays/projects/introduction-to-arrays/array-with-non-primitive-data-type/Book.java) class with the provided information and storing them in `bookCollection` array. 
+Create three objects from the [`Book`](./src/Book.java) class with the provided information and store them in the `bookCollection` array. 
 - First `Book` object
    - Title: `Data Structures and Algorithms in Java`
    - Author: `Robert Lafore`
