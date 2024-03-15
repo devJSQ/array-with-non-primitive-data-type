@@ -1,7 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        public class Main {
-    public static void main(String[] args) {
         Book [] books = new Book[5];
         books[0] = new Book("harrypotter", "jk rowling", 1992 );
         books[1] = new Book("davinci code", "dan brown", 1922);
@@ -23,50 +21,10 @@ public class Main {
             System.out.println(students[i].getName() + ' ' + students[i].getId());
         }
 
-    }
-}
 
 
-    }
-}
-public class Student{
-    private int age;
-    private int id;
-    private String name;
 
-    public Student(int age, int id, String name){
-        this.age = age;
-        this.id = id;
-        this.name = name;
-    }
 
-    public int getAge(){
-        return age;
-    }
-
-    public void setAge (int age){
-        this.age = age;
 
     }
-
-    public int getId(){
-        return id;
-    }
-
-    public void  setId(int id){
-        this.id = id;
-    }
-
-    public String getName(){
-        return name;
-    }
-
-    public void setName (String name){
-         this.name = name;
-    }
-
-
-
-
-
 }
